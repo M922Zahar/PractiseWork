@@ -4,6 +4,6 @@ public class Player
 {
     public static void Main()
     {
-        Console.WriteLine("Hello world!");
+        Console.WriteLine("Go to do your work");
     }
 }
